@@ -1,0 +1,10 @@
+{
+  "name": "iSiA v2 — Compagne Trading Co-Évolutive & PWA",
+  "description": "Votre compagne trading intelligente, coach de marché et laboratoire d'évaluation de scanners auto-évolutifs en temps réel avec analyseur de scripts Pine Script.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
